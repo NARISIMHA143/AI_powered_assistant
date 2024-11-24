@@ -96,3 +96,13 @@ Key Functions
 
 
 This documentation provides an overview of the script’s design, features, and functionalities to assist in its maintenance and further development.
+
+
+
+![Screenshot 2024-11-24 120853](https://github.com/user-attachments/assets/914aa881-6552-498a-9f7b-4c5e1001aec4)
+
+![Screenshot 2024-11-24 120913](https://github.com/user-attachments/assets/19382384-f1ea-4cf8-8ecc-8f52b019f01d)
+
+
+![Screenshot 2024-11-24 120928](https://github.com/user-attachments/assets/464edb55-8250-48c5-9514-7d550bcd87fc)
+
