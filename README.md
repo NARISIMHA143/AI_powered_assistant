@@ -12,7 +12,6 @@ Imports and Dependencies
    - `numpy`: For handling image data arrays.
    - `pyttsx3`: For Text-to-Speech (TTS) functionality.
    - `queue`: For managing tasks.
-   - `langchain_google_genai`: For advanced integration with Google Generative AI.
 
 2. Google Generative AI Configuration:
    - API key is required to authenticate with Google Generative AI.
