@@ -1,8 +1,9 @@
 streamlit
-pillow
+google-generativeai
 pytesseract
+Pillow
 opencv-python
 numpy
-gtts
-deep-translator
-google-generativeai
+pyttsx3
+langchain
+langchain-google-genai
