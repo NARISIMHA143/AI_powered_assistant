@@ -9,7 +9,7 @@ import os
 import uuid
 
 # Configure Google Generative AI
-genai.configure(api_key="")
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 
 class AudioController:
