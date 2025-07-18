@@ -4,6 +4,7 @@ pytesseract
 Pillow
 opencv-python
 numpy
-pyttsx3
+gtts
+deep-translator
 langchain
 langchain-google-genai
