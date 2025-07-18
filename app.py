@@ -9,11 +9,11 @@ import os
 import uuid
 
 # Configure Google Generative AI
-genai.configure(api_key="YOUR_API_KEY")
+genai.configure(api_key="AIzaSyCwsq0Q3CA9PU0LkItcIukBGLC8-j4rS6I")
 
 
 class AudioController:
-    def _init_(self):
+    def __init__(self):
         self.audio_file = None
 
     def speak_text(self, text):
@@ -35,7 +35,7 @@ class AudioController:
 
 
 class VisualAssistanceApp:
-    def _init_(self):
+    def __init__(self):
         self.audio_controller = AudioController()
         self.model = genai.GenerativeModel("gemini-1.5-flash")
 
@@ -192,5 +192,5 @@ def main():
                 st.audio(audio_file, format="audio/mp3")
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
