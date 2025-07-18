@@ -10,7 +10,7 @@ Imports and Dependencies
    - `PIL.Image`: For image manipulation.
    - `cv2` (OpenCV): For image processing.
    - `numpy`: For handling image data arrays.
-   - `pyttsx3`: For Text-to-Speech (TTS) functionality.
+   - `gtts`: For Text-to-Speech (TTS) functionality.
    - `queue`: For managing tasks.
 
 2. Google Generative AI Configuration:
@@ -81,7 +81,8 @@ Key Functions
  **How to Run**
 1. Install the required dependencies:
    ```
-   pip install streamlit google-generativeai pytesseract opencv-python-headless pillow pyttsx3 langchain_google_genai
+   pip install streamlit google-generativeai pytesseract Pillow opencv-python numpy gTTS
+
    ```
 2. Set up the `api_key` for Google Generative AI in the `genai.configure` function.
 
