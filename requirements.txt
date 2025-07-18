@@ -1,0 +1,7 @@
+streamlit
+pillow
+opencv-python
+numpy
+gtts
+deep-translator
+google-generativeai
