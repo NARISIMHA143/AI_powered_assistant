@@ -1,5 +1,6 @@
 streamlit
 pillow
+pytesseract
 opencv-python
 numpy
 gtts
